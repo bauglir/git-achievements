@@ -2,6 +2,7 @@
 <title>Joris Kraak's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Seamstress (Level 5)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Seamstress (Level 4)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Pilgrim (Level 1)</title><description>Performed a rebase using git rebase --onto.</description></item>
 <item><title>Miller (Level 4)</title><description>Add only part of a file to the stage 296 times with git add -p.</description></item>
-<item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
