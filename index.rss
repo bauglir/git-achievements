@@ -2,6 +2,7 @@
 <title>Joris Kraak's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Butcher (Level 4)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Master Stone Mason (Level 9)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Seamstress (Level 5)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Seamstress (Level 4)</title><description>amended a commit with git commit --amend.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
 <item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 <item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Apprentice Pilgrim (Level 1)</title><description>Performed a rebase using git rebase --onto.</description></item>
 </channel></rss>
